@@ -14,5 +14,11 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "peerDependencies": {
+    "find-yarn-workspace-root": "^2.0.0"
+  },
+  "optionalDependencies": {
+    "find-yarn-workspace-root": "^2.0.0"
+  }
 }
